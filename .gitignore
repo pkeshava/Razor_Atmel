@@ -5,3 +5,7 @@ Debug/
 *.TMP
 *.wspos
 *.dbgdt
+*.cspy
+*.cspy.bat
+*.crun
+*.dni
